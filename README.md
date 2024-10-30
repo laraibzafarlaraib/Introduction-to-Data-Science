@@ -14,12 +14,12 @@ In this repository, we share our data science explorations, including datasets, 
 
 ## Modules
 We organize our Modules in separate directories, each dedicated to a specific topic or project. Here are some of the Modules you'll find in this repository:
-- [Git & GitHub ](/projects/Module1/) : Git: Git is a version control system that lets you track changes to your code, collaborate with others, and revert to earlier versions if needed. It’s essential for managing code efficiently, especially in projects where multiple people are working together.
+- **Git & GitHub** : Git: Git is a version control system that lets you track changes to your code, collaborate with others, and revert to earlier versions if needed. It’s essential for managing code efficiently, especially in projects where multiple people are working together.
 GitHub: GitHub is a platform that hosts Git repositories online, making it easy to share code, collaborate on projects, and showcase your work. It also provides tools like issue tracking, pull requests, and project management to streamline teamwork..
-- [Basics-of-Python-Programming](/projects/Module1/): Python is a versatile, beginner-friendly programming language widely used in Data Science for tasks like data manipulation, analysis, and visualization. Its libraries, such as Pandas, NumPy, and Matplotlib, simplify complex computations and make data handling efficient and accessible.
-- [Python-for-Data-Scientists](/projects/Module2/):Python is a core tool for Data Scientists due to its powerful libraries like Pandas, NumPy, and Scikit-learn, which streamline data cleaning, analysis, and model building. Its simplicity and community support make it ideal for handling large datasets, visualizations, and machine learning tasks..
+- **Basics-of-Python-Programming**: Python is a versatile, beginner-friendly programming language widely used in Data Science for tasks like data manipulation, analysis, and visualization. Its libraries, such as Pandas, NumPy, and Matplotlib, simplify complex computations and make data handling efficient and accessible.
+- **Python-for-Data-Scientists**:Python is a core tool for Data Scientists due to its powerful libraries like Pandas, NumPy, and Scikit-learn, which streamline data cleaning, analysis, and model building. Its simplicity and community support make it ideal for handling large datasets, visualizations, and machine learning tasks..
 
-- [Semester Project ](/projects/Module2/): Description of project.
+- **Semester Project**: Description of project.
 - ...
 
 ## Getting Started
